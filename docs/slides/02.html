@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CLEAN MARKUP = GOOD KARMA.
+      Hi source code lover,
+
+      you're a curious person and a fast learner ;)
+      Let's make something beautiful together. Contribute on Github:
+      https://github.com/webslides/webslides
+
+      Thanks!
+      -->
+
+    <!-- SEO -->
+    <title>Generative Computer Graphics - Slides 02</title>
+    <meta name="description" content="Generative Computer Graphics - Slides 01">
+
+    <!-- URL CANONICAL -->
+    <!-- <link rel="canonical" href="http://your-url.com/permalink"> -->
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+    <!-- CSS Base -->
+    <link rel="stylesheet" type='text/css' media='all' href="static/css/webslides.css">
+
+    <!-- Optional - CSS SVG Icons (Font Awesome) -->
+    <link rel="stylesheet" type="text/css" media="all" href="static/css/svg-icons.css">
+
+    <!-- SOCIAL CARDS (ADD YOUR INFO) -->
+
+    <!-- FACEBOOK -->
+    <meta property="og:url" content="http://your-url.com/permalink"> <!-- EDIT -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Generative design @ HSLU"> <!-- EDIT -->
+    <meta property="og:description" content="Part 01"> <!-- EDIT -->
+    <meta property="og:updated_time" content="2017-11-24"> <!-- EDIT -->
+    <meta property="og:image" content=" static/images/share-webslides.jpg" > <!-- EDIT -->
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@webslides"> <!-- EDIT -->
+    <meta name="twitter:creator" content="@jlantunez"> <!-- EDIT -->
+    <meta name="twitter:title" content="Generative Computer Graphics - Slides 01"> <!-- EDIT -->
+    <meta name="twitter:description" content="Generative Computer Graphics - Slides 01"> <!-- EDIT -->
+    <meta name="twitter:image" content=" static/images/share-webslides.jpg"> <!-- EDIT -->
+
+    <!-- FAVICONS -->
+    <link rel="shortcut icon" sizes="16x16" href=" static/images/favicons/favicon.png">
+    <link rel="shortcut icon" sizes="32x32" href=" static/images/favicons/favicon-32.png">
+    <link rel="apple-touch-icon icon" sizes="76x76" href=" static/images/favicons/favicon-76.png">
+    <link rel="apple-touch-icon icon" sizes="120x120" href=" static/images/favicons/favicon-120.png">
+    <link rel="apple-touch-icon icon" sizes="152x152" href=" static/images/favicons/favicon-152.png">
+    <link rel="apple-touch-icon icon" sizes="180x180" href=" static/images/favicons/favicon-180.png">
+    <link rel="apple-touch-icon icon" sizes="192x192" href=" static/images/favicons/favicon-192.png">
+
+    <!-- Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#333333">
+  </head>
+  <body>
+    <header role="banner">
+      <nav role="navigation">
+        <p class="logo"><a href="../" title="Logo HSLU"></a></p>
+      </nav>
+    </header>
+    <main role="main">
+      <article id="webslides">
+
+        <!-- HOME -->
+        <section class="bg-black aligncenter">
+         <!-- <span class="background dark" style="background-image:url('https://miulinglam.files.wordpress.com/2010/02/cp07.jpg')"></span> -->
+          <span class="background" style="background-image:url('static/images/header.gif')"></span>
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <h1 class="text-landing">The aesthetic of generative coding</h1>
+            <p class="text-subtitle">WEEK 02</p>
+            <p class="text-symbols">* * * </p>
+            <p><a class="button ghost" href="https://github.com/digitalideation/BA_222_GENCG_H1701" ><svg class="fa-github">
+                <use xlink:href="#fa-github"></use>
+              </svg> Main repo</a>
+            </p>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- INTRO -->
+        <section class="frame bg-black aligncenter">
+          <div class="wrap">
+            <h2 class="text-landing">Intro</h2>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <section>
+          <div class="wrap size-50">
+            <h2>This week</h2>
+            <p class="text-intro">Noise and Randomness</p>
+            <p>During this week we are going to experiment with noise and randomness. <br>You should adapt and keep developing some of the classes/libraries you started creating last week.</p>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- SETUP -->
+        <section class="frame bg-black aligncenter">
+          <div class="wrap">
+            <h2 class="text-landing">Overview</h2>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <section class="bg-black aligncenter">
+          <span class="background dark" style="background-image:url('static/images/scooter-img.jpg')"></span>
+          <div class="wrap">
+            <div class="content-right">
+              <blockquote>
+                <h3>Noise</h3>
+                <p></p>
+                <p>
+                  <a target="_blank" class="button ghost" href="../notebooks/03.html#noise" >
+                    <svg class="fa-book"><use xlink:href="#fa-book"></use></svg> 
+                    Go to notebook
+                  </a>
+                </p>            
+                <p>"<b>Make some noise!!!</b> Ravers of the Universe...you, keep the spirit alive! "</p>
+                <p><cite>Scooter - Move your Ass! (1995)</cite></p>
+              </blockquote>
+            </div>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <section class="bg-black aligncenter">
+          <!-- Overlay/Opacity: [class*="bg-"] > .background.dark or .light -->
+          <span class="background dark" style="background-image:url('static/images/random-img.png')"></span>
+          <div class="wrap">
+            <h1 class="text-landing text-shadow">Random</h1>
+            <p></p>
+            <p>
+              <a target="_blank" class="button ghost" href="../notebooks/03.html#random" >
+                <svg class="fa-book"><use xlink:href="#fa-book"></use></svg> 
+                Go to notebook
+              </a>
+            </p>            
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <section class="frame bg-black aligncenter">
+          <div class="wrap">
+            <h2 class="text-landing">Progress</h2>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <section>
+          <div class="wrap">
+            <div class="card-50">
+              <div class="flex-content">
+                <h3>Exquisite corpse</h3>
+                <p>from the original French term cadavre exquis</p>
+                <p>Exquisite corpse, also known as exquisite cadaver (from the original French term cadavre exquis), is a method by which a collection of words or images is collectively assembled. Each collaborator adds to a composition in sequence, either by following a rule or by being allowed to see only the end of what the previous person contributed.</p>
+              </div>
+              <!-- end .flex-content-->
+              <figure>
+                <img class="aligncenter" src="static/images/exquisite_small.png">
+              </figure>
+            </div>
+            <!-- .end card-50 -->
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <section>
+          <div class="wrap">
+            <div class="card-50">
+              <div class="flex-content">
+                <h3>Poietic Generator</h3>
+                <p>Poietic Generator is a social-network game designed by Olivier Auber in 1986, and developed from 1987 under the label free art thanks to many contributors. The game takes place within a two-dimensional matrix in the tradition of board games and its principle is similar to both Conway's Game of Life and the surrealists' Exquisite corpse.</p>
+              </div>
+              <!-- end .flex-content-->
+              <figure>
+                <img class="aligncenter size-50" src="static/images/poietic-generator.net.gif">
+              </figure>
+            </div>
+            <!-- .end card-70 -->
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <section>
+          <div class="wrap">
+            <div class="card-50">
+              <div class="flex-content">
+                <h3>Sounds as shapes</h3>
+                <p>...</p>
+              </div>
+              <!-- end .flex-content-->
+              <figure>
+                <img class="aligncenter size-50" src="static/images/sound_sculpture.jpg">
+              </figure>
+            </div>
+            <!-- .end card-50 -->
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <section>
+          <div class="wrap">
+            <div class="card-50">
+              <div class="flex-content">
+                <h3>Logo generator</h3>
+                <p>Interactive logo generator for Digital Ideation new visual identity</p>
+              </div>
+              <!-- end .flex-content-->
+              <figure>
+                <img class="aligncenter size-70" src="static/images/logo_di.png">
+              </figure>
+            </div>
+            <!-- .end card-50 -->
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+        <!-- END -->
+        <section class="frame bg-black aligncenter">
+          <div class="wrap">
+            <h2 class="text-landing">To be continued</h2>
+            <h2 class="text-landing">...</h2>
+          </div>
+          <!-- .end .wrap -->
+        </section>
+
+      </article>
+    </main>
+    <!--main-->
+
+    <!-- Required -->
+    <script src=" static/js/webslides.js"></script>
+
+    <script>
+      window.ws = new WebSlides();
+    </script>
+
+    <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
+    <script defer src=" static/js/svg-icons.js"></script>
+
+  </body>
+</html>
