@@ -18,10 +18,7 @@
       <a href="#" class="btn">Resources</a>
       <a href="#" class="btn">Slack</a>
       {% if site.github.is_project_page %}
-        <a href="slides/index.html" class="btn">Syllabus</a>
-        <a href="#" class="btn">Schedule</a>
-        <a href="#" class="btn">Resources</a>
-        <a href="#" class="btn">Slack</a>
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
