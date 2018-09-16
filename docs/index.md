@@ -1,8 +1,3 @@
-# Computer Perception Extended - Winter 2018
-
----
-
-
 # Before Starting
 
 A few resources to get you warmed up before the class!
@@ -20,7 +15,7 @@ A few resources to get you warmed up before the class!
 
 We will work with some of those tools, ordered below by descending level of abstraction (from higher to lower level):
 
-1. #### [Wekinator](http://www.wekinator.org/) 
+1. [Wekinator](http://www.wekinator.org/) 
 
    Wekinator is a software allowing anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision and so on. Wekinator is using OSC protocol and can be used with pretty much any type of programing language. We will use it with [Processing](https://processing.org/). 
 
@@ -28,7 +23,8 @@ We will work with some of those tools, ordered below by descending level of abst
    * [Quick Start Pack](http://www.wekinator.org/examples/#Quick_Start_Pack)
    * [Course](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 
-2. #### [ML5js](https://ml5js.org) 
+
+2. [ML5js](https://ml5js.org) 
 
    ML5.js is a simple ML library for the web based on tensorflow.js. 
 
@@ -36,7 +32,8 @@ We will work with some of those tools, ordered below by descending level of abst
    * [Experiments](https://ml5js.org/en/experiments)
    * [Git source](https://github.com/ml5js)
 
-3. #### [Brain.js](https://github.com/BrainJS/brain.js) 
+
+3. [Brain.js](https://github.com/BrainJS/brain.js) 
 
    Neural networks in JavaScript, simple and playful.
 
@@ -44,7 +41,8 @@ We will work with some of those tools, ordered below by descending level of abst
    * [Tutorial 02](https://www.youtube.com/watch?v=9Hz3P1VgLz4)
    * [Tutorial 03](https://www.youtube.com/watch?v=lvzekeBQsSo)
 
-4. #### [Tensorflow.js](https://js.tensorflow.org/)
+
+4. [Tensorflow.js](https://js.tensorflow.org/)
 
    A library with a more advanced set of options, also for the web.
 
@@ -52,7 +50,8 @@ We will work with some of those tools, ordered below by descending level of abst
    * [Tutorials](https://js.tensorflow.org/tutorials/)
    * [Keynote](https://www.youtube.com/watch?v=YB-kfeNIPCE)
 
-5. #### [Keras](https://keras.io)
+
+5. [Keras](https://keras.io)
 
    Keras is a high-level neural networks API, written in Python and capable of running on top of **TensorFlow, CNTK, or Theano**. It was developed with a focus on enabling fast experimentation
 
