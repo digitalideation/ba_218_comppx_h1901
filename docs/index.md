@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Before Starting
 
 A few resources to get you warmed up before the class!
@@ -103,7 +107,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 ...
 
 
-[ref-learn-python-the-hardway]: http:https://www.learnpythonthehardway.org
+[ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
 [ref-google-python]: https://developers.google.com/edu/python/ 
 [ref-ca-python]: https://www.codecademy.com/learn/learn-python 
 [ref-w3s-js]: https://www.w3schools.com/js/default.asp 

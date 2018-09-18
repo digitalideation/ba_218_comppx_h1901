@@ -15,7 +15,6 @@ All the info regarding the class as well as direct links to all materials (slide
 
 A few resources to get you warmed up before the class!
 
-
 ## Coding
 
 + [Learn Python the hard way][ref-learn-python-the-hardway]: to (re)learn your basic in Python
@@ -24,7 +23,6 @@ A few resources to get you warmed up before the class!
 + [W3School js][ref-w3s-js]: JS simple tutorials
 + [CodeAcademy JS][ref-ca-js]: Code Academy JS class
 + [Eloquent JS][ref-el-js]: Eloquent JS
-
 
 ## Tools
 
@@ -118,7 +116,7 @@ We will work with some of those tools, ordered below by descending level of abst
 
 
 
-[ref-learn-python-the-hardway]: http:https://www.learnpythonthehardway.org
+[ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
 [ref-google-python]: https://developers.google.com/edu/python/ 
 [ref-ca-python]: https://www.codecademy.com/learn/learn-python 
 [ref-w3s-js]: https://www.w3schools.com/js/default.asp 
