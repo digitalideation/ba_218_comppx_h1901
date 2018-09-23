@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 title: Computer Perception Extended
+plugins:
+  - jemoji
+
 # description: Winter 2017
 # show_downloads: "true"

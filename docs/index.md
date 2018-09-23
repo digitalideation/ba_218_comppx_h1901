@@ -2,11 +2,12 @@
 layout: default
 ---
 
-# Before Starting
 
-A few resources to get you warmed up before the class!
+## Intro
 
-## Coding
+In this module we will explore different applications of ML/AI/DL with a particular focus on design and art. We will first learn how neural networks work with simple code examples, then we will experiment with different techniques of Deep Learning: applied to Computer Vision (image classification, objects detection, pose estimation...) Generative Deep Learning (DeepDream, style transfer, Pix2Pix / CycleGAN...). Once we get a good grasp of the different techniques, we will experiment further by building our own ‘AI’ project. :space_invader:
+
+### Before starting
 
 + [Learn Python the hard way][ref-learn-python-the-hardway]: to (re)learn your basic in Python
 + [Google's Python Class][ref-google-python]: concise and clear
@@ -15,9 +16,7 @@ A few resources to get you warmed up before the class!
 + [CodeAcademy JS][ref-ca-js]: Code Academy JS class
 + [Eloquent JS][ref-el-js]: Eloquent JS
 
-## Tools
-
-We will work with some of those tools, ordered below by descending level of abstraction (from higher to lower level):
+### Tools
 
 #### 1. [Wekinator](http://www.wekinator.org/) 
 
@@ -35,7 +34,6 @@ ML5.js is a simple ML library for the web based on tensorflow.js.
 * [Experiments](https://ml5js.org/en/experiments)
 * [Git source](https://github.com/ml5js)
 
-
 #### 3. [Brain.js](https://github.com/BrainJS/brain.js) 
 
 Neural networks in JavaScript, simple and playful.
@@ -43,7 +41,6 @@ Neural networks in JavaScript, simple and playful.
 * [Great tutorial 01](https://scrimba.com/c/c36zkcb)
 * [Tutorial 02](https://www.youtube.com/watch?v=9Hz3P1VgLz4)
 * [Tutorial 03](https://www.youtube.com/watch?v=lvzekeBQsSo)
-
 
 #### 4. [Tensorflow.js](https://js.tensorflow.org/)
 
@@ -53,17 +50,34 @@ A library with a more advanced set of options, also for the web.
 * [Tutorials](https://js.tensorflow.org/tutorials/)
 * [Keynote](https://www.youtube.com/watch?v=YB-kfeNIPCE)
 
-
 #### 5. [Keras](https://keras.io)
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of **TensorFlow, CNTK, or Theano**. It was developed with a focus on enabling fast experimentation
 * [Getting Started](https://keras.io/#getting-started-30-seconds-to-keras)
 * [Tutorials](https://blog.keras.io/index.html)
 
+#### 6. [Magenta.js](https://github.com/tensorflow/magenta-js/)
 
-# Schedule
+Magenta.js is a collection of TypeScript libraries for doing inference with pre-trained Magenta models. All libraries are published as npm packages.
 
-## Week 01
+* [Demos](https://magenta.tensorflow.org/demos)
+* [Blog](https://magenta.tensorflow.org)
+
+#### 7. [ML4A OFX](https://github.com/ml4a/ml4a-ofx) 
+
+A collection of real-time interactive applications and associated scripts for working with machine learning. ML4A-OFX is running on [OpenFrameworks](http://www.openframeworks.cc/). 
+
+* [Guides](https://ml4a.github.io/guides/)
+* [Git](https://github.com/ml4a)
+
+#### 8. [OFX MSATensorflow](https://github.com/memo/ofxMSATensorFlow) 
+
+[OpenFrameworks](http://www.openframeworks.cc/) addon for Google's graph based machine intelligence / deep learning library TensorFlow.
+
+
+## Schedule
+
+### Week 01
 
 + General Intro 
   + About the course (communication, resources, deliverables, etc…)
@@ -74,13 +88,13 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 + Tools
   + Keras, TFJS, ML5JS, etc...
 
-## Week 02
+### Week 02
 
 + NN I: Toy Neural Network
   + Build together a simple neural net
   + Create simple classification tasks
 
-## Week 03
+### Week 03
 
 + Intro to tools
   + Keras
@@ -88,23 +102,30 @@ Keras is a high-level neural networks API, written in Python and capable of runn
   + Paperspace (tbc)
 + NN II: Classifiers
 
-## Week 04
+### Week 04
 
 + Machine Learning for computer vision (ConvNets)
 
-## Week 05
+### Week 05
 
 + Generative models: LSTM, RNN
 
-## Week 06
+### Week 06
 
 + Generative models: GANs
 
-## Week 07
+### Week 07
 
 + Projects
 
 ...
+
+
+## Content
+
+Week | Slides | Content
+---- | ------ | -------
+01 | [Slides](/slides/week01.html) | [Content](/content/week01.html)
 
 
 [ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
