@@ -125,7 +125,7 @@ A collection of real-time interactive applications and associated scripts for wo
 
 Week | Slides | Content
 ---- | ------ | -------
-01 | [Slides](/slides/week01.html) | [Content](/content/week01.html)
+01 | [Slides](./slides/week01.html) | [Content](./content/week01.html)
 
 
 [ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
