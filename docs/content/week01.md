@@ -8,9 +8,9 @@ This week will be mostly about planning and inspirations. We will go together th
 
 ## Tutorial and resources
 
-+ [History - History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
-+ [NN - Intro text](https://ml4a.github.io/ml4a/neural_networks/)
 + [NN - Intro videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
++ [NN - Intro text](https://ml4a.github.io/ml4a/neural_networks/)
++ [History - History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 
 ## Weekly task
 

@@ -5,7 +5,13 @@ layout: default
 
 ## Intro
 
-In this module we will explore different applications of ML/AI/DL with a particular focus on design and art. We will first learn how neural networks work with simple code examples, then we will experiment with different techniques of Deep Learning: applied to Computer Vision (image classification, objects detection, pose estimation...) Generative Deep Learning (DeepDream, style transfer, Pix2Pix / CycleGAN...). Once we get a good grasp of the different techniques, we will experiment further by building our own ‘AI’ project. :space_invader:
+In this module we will explore different applications of ML/AI/DL with a particular focus on design and art. We will first learn how neural networks work with simple code examples, then we will experiment with different techniques of Deep Learning: 
+
+* DL applied to Computer Vision (image classification, objects detection, pose estimation...) 
+* Generative Deep Learning (DeepDream, style transfer, Pix2Pix / CycleGAN...) 
+* etc... 
+
+Once we get a good grasp of the different techniques, we will experiment further by building our own ‘AI’ project. :space_invader:
 
 ### Before starting
 
