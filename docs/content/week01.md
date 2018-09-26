@@ -18,7 +18,7 @@ Watch the [serie on RNN](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibg
 
 Next week we will play with the [XOR](https://www.youtube.com/watch?v=188B6k_F9jU), [Doodle](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zs14zKVuTuit6jApJgoYZQ) and [Color predictor](https://www.youtube.com/watch?v=KtPpoMThKUs) examples. An online demo of the color predictor is available [here](https://editor.p5js.org/natureofcode/sketches/SkYS8WwjG) together with source code.
 
-The goal is to start understanding how a simple NN work. It's ok if some parts (even a lot) are unclear for now, we will go through some code example and play around with the toy NN built by Daniel Shiffman together next week. The example below are written in JS, similar examples written in Python are included in ['Going further'](#going-further) below.
+The goal is to **start understanding how a simple NN work**. It's ok if some parts (even a lot) are unclear for now, we will go through some code example and play around with the toy NN built by Daniel Shiffman together next week. The example below are written in JS, similar examples written in Python are included in ['Going further'](#going-further) below.
 
 You can also have a look at the proposed [tools](../#tools) and give them a try!
 
