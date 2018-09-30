@@ -31,3 +31,4 @@ Experiment with the toy NN:
 + [JS - Blob detection](http://blog.acipo.com/blob-detection-js/)
 + [JS - P5JS](https://github.com/processing/p5.js)
 + [JS - P5JS image pixel color ](https://p5js.org/examples/image-pointillism.html)
++ [NN - Inner Working - Bias](https://www.quora.com/What-is-bias-in-artificial-neural-network)
