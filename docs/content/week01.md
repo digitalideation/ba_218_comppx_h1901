@@ -6,7 +6,7 @@ layout: inner
 
 This week will be mostly about planning and inspirations. We will go together through the schedule, evaluation criteria, talk briefly about the basis of ML and have a look at different examples of ML projects. 
 
-## Tutorial and resources
+## Resources
 
 + [NN - Intro videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 + [NN - Intro text](https://ml4a.github.io/ml4a/neural_networks/)

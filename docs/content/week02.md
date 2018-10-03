@@ -6,7 +6,7 @@ layout: inner
 
 This week we are going to look into the inner working of a Neural Network. As a starter we will go through the different steps involved while training a NN. Then we will play together with a 'toy' version of a NN built by [Daniel Shiffman](http://thecodingtrain.com) 
 
-## Tutorial and resources
+## Resources
 
 + [NN - Intro videos (again)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 + [NN - ToyNN Source](https://github.com/CodingTrain/Toy-Neural-Network-JS/)
