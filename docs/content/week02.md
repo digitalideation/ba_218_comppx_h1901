@@ -22,6 +22,7 @@ Experiment with the toy NN:
 + Create a shape detector working with your webcam
 + Build a simple image classification (try [mnist fashion](https://github.com/zalandoresearch/fashion-mnist))
 + Try to do some of the above or the other examples provided with ToyNN using another [tool](../#tools) 
++ [More ideas](https://github.com/shiffman/NOC-S18/wiki/Homework-6) :new:
 
 ## Going further
 
