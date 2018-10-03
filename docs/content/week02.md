@@ -18,10 +18,10 @@ This week we are going to look into the inner working of a Neural Network. As a 
 
 Experiment with the toy NN:
 + Create a shape detector
++ Make the shape detector work with your webcam
 + Visualise the training process
-+ Create a shape detector working with your webcam
-+ Build a simple image classification (try [mnist fashion](https://github.com/zalandoresearch/fashion-mnist))
-+ Try to do some of the above or the other examples provided with ToyNN using another [tool](../#tools) 
++ Build a classification model using different datasets (try [mnist fashion](https://github.com/zalandoresearch/fashion-mnist))
++ Try to do some of the above or to replicate the examples provided with ToyNN using another [tool](../#tools) and compare the performances
 + [More ideas](https://github.com/shiffman/NOC-S18/wiki/Homework-6) :new:
 
 ## Going further
@@ -29,7 +29,7 @@ Experiment with the toy NN:
 + [Datasets - Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
 + [Datasets - Misc datasets](https://www.kdnuggets.com/datasets/index.html)
 + [Datasets - Kaggle](https://www.kaggle.com/datasets)
-+ [JS - Blob detection](http://blog.acipo.com/blob-detection-js/)
++ [JS - Blob detection (for shape detector)](http://blog.acipo.com/blob-detection-js/)
 + [JS - P5JS](https://github.com/processing/p5.js)
 + [JS - P5JS image pixel color ](https://p5js.org/examples/image-pointillism.html)
 + [NN - Inner Working - Bias](https://www.quora.com/What-is-bias-in-artificial-neural-network)
