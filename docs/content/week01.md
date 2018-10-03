@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "COMPPX18 - Week 01"
+title: "Week 01"
 ---
 
 ## Intro

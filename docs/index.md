@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "COMPPX18 - Intro" 
+title: "Intro" 
 ---
 
 ## Intro
