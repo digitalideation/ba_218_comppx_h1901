@@ -1,5 +1,6 @@
 ---
 layout: inner
+title: "COMPPX18 - Week 02" 
 ---
 
 ## Intro
