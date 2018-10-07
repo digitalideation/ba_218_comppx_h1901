@@ -63,6 +63,8 @@ A **JavaScript** library with a more advanced set of options, also for the web.
 * [Getting Started](https://js.tensorflow.org/#getting-started)
 * [Tutorials](https://js.tensorflow.org/tutorials/)
 * [Keynote](https://www.youtube.com/watch?v=YB-kfeNIPCE)
+* [Examples](https://github.com/tensorflow/tfjs-examples)
+* [Video Tutorials](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md#video-tutorials)
 
 #### 6. [Magenta.js](https://github.com/tensorflow/magenta-js/)
 
@@ -142,6 +144,7 @@ Week | Slides | Content
 ---- | ------ | -------
 01 | [Slides](./slides/week01.html) | [Content](./content/week01.html)
 02 | [Slides](./slides/week02.html) | [Content](./content/week02.html)
+03 | [Slides](./slides/week03.html) | [Content](./content/week03.html)
 
 
 [ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
