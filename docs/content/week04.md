@@ -30,7 +30,7 @@ Read the articles above in [resources](#resources), and complete the 4 notebooks
 └── week04-08-visualizing-what-convnets-learn.ipynb
 ```
 
-Those notebooks are taken from the book DeepLearning with Python, (please refer to the link shared on Slack). You should be able to run most of the examples with your local instances of TF / Keras running on the CPU. At the meantime I will try to setup some machine on [Paperspace](https://www.paperspace.com) so that you can use their GPU for training :stuck_out_tongue_winking_eye: I'll share the link with you on Slack if / when this is done.
+Those notebooks are taken from the book _Deep Learning with Python_, (please refer to the link shared on Slack). You should be able to run most of the examples with your local instances of TF / Keras running on the CPU. At the meantime I will try to setup some machine on [Paperspace](https://www.paperspace.com) so that you can use their GPU for training :stuck_out_tongue_winking_eye: I'll share the link with you on Slack if / when this is done.
 
 Convnets are a cornerstone of Deeplearning and you are going to learn a few very useful techniques this week. Namely: _'data augmentation'_ and _'feature extraction'_ for _'transfer learning'_ . 
 
@@ -40,13 +40,13 @@ For _developers_ your assignment is to use a CNN to build a classifier of your c
 
 Both _designers_ and _developers_ should start looking a bit more in details into their personal project (that we will start to work on after week 06) Which means:
 
-1) Make some research on similar projects (models architecture, datasets, tutorials, blog posts, etc...), please __share__ your research on Slack if you think they could help some teammates.
-2) For _designers_ you should start sketching some ideas either in the form of prototypes (high or low level), UI sketches, or even code experiment (P5, ML5).
+1. Make some research (models architecture, datasets, tutorials, blog posts, etc...), please __share__ your finding on Slack if you think they could help some teammates.
+2. For _designers_ you should start sketching some ideas either in the form of prototypes (high or low level), UI sketches, or even code experiment (P5, ML5).
 
 By __next week__ (week 05) you should:
 
-1) Have a __solid understanding__ of  Keras at a basic functions _(Developers)_
-2) Be able to __train / retrain__ your own __CNN__ with Keras _(Developers)_
+1. Have a __solid understanding__ of  Keras at a basic functions _(developers)_
+2. Be able to __train / retrain__ your own __CNN__ with Keras _(developers)_
 
 
 ## Going further
