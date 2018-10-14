@@ -45,7 +45,7 @@ Both _designers_ and _developers_ should start looking a bit more in details int
 
 By __next week__ (week 05) you should:
 
-1. Have a __solid understanding__ of  Keras at a basic functions _(developers)_
+1. Have a __solid understanding__ of  Keras _(developers)_
 2. Be able to __train / retrain__ your own __CNN__ with Keras _(developers)_
 
 
