@@ -109,30 +109,33 @@ A collection of real-time interactive applications and associated scripts for wo
 + NN : Toy Neural Network
   + Build together a simple neural net
   + Create simple classification tasks
-+ Machine Learning Project Checklist
 
 ### Week 03
 
-+ Intro to tools
++ Machine Learning Project Checklist
++ Training a NN: Intro to tools
   + Keras
   + ML5js
   + Paperspace (tbc)
-+ NN II: Classifiers
 
-### Week 04
+### Week 04 (self study)
 
 + Machine Learning for computer vision (ConvNets)
 
 ### Week 05
 
++ Review Convnets
 + Generative models: LSTM, RNN
 
 ### Week 06
 
++ Review RNN
 + Generative models: GANs
 
 ### Week 07
 
++ Datasets
++ Exporting models
 + Projects
 
 ...
@@ -140,11 +143,12 @@ A collection of real-time interactive applications and associated scripts for wo
 
 ## Content
 
-Week | Slides | Content
----- | ------ | -------
-01 | [Slides](./slides/week01.html) | [Content](./content/week01.html)
-02 | [Slides](./slides/week02.html) | [Content](./content/week02.html)
-03 | [Slides](./slides/week03.html) | [Content](./content/week03.html)
+Week | Slides                         | Content
+---- | ------------------------------ | -------
+01   | [Slides](./slides/week01.html) | [Content](./content/week01.html)
+02   | [Slides](./slides/week02.html) | [Content](./content/week02.html)
+03   | [Slides](./slides/week03.html) | [Content](./content/week03.html)
+04   | [Slides](./slides/week04.html) | [Content](./content/week04.html)
 
 
 [ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org

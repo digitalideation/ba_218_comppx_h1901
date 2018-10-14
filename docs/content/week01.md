@@ -3,15 +3,18 @@ layout: inner
 title: "Week 01"
 ---
 
+
 ## Intro
 
 This week will be mostly about planning and inspirations. We will go together through the schedule, evaluation criteria, talk briefly about the basis of ML and have a look at different examples of ML projects. 
+
 
 ## Resources
 
 + [NN - Intro videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 + [NN - Intro text](https://ml4a.github.io/ml4a/neural_networks/)
 + [History - History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
+
 
 ## Weekly task
 
@@ -22,6 +25,7 @@ Next week we will play with the [XOR](https://www.youtube.com/watch?v=188B6k_F9j
 The goal is to **start understanding how a simple NN work**. It's ok if some parts (even a lot) are unclear for now, we will go through some code example and play around with the toy NN built by Daniel Shiffman together next week. The example below are written in JS, similar examples written in Python are included in ['Going further'](#going-further) below.
 
 You can also have a look at the proposed [tools](../#tools) and give them a try!
+
 
 ## Going further
 

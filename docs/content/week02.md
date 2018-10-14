@@ -3,9 +3,11 @@ layout: inner
 title: "Week 02" 
 ---
 
+
 ## Intro
 
 This week we are going to look into the inner working of a Neural Network. As a starter we will go through the different steps involved while training a NN. Then we will play together with a 'toy' version of a NN built by [Daniel Shiffman](http://thecodingtrain.com) 
+
 
 ## Resources
 
@@ -16,6 +18,7 @@ This week we are going to look into the inner working of a Neural Network. As a 
 + [NN - Visualisation NOC examples - chapter 10](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp10_nn)
 + [NN - How to build a NN (XOR example)](https://stevenmiller888.github.io/mind-how-to-build-a-neural-network/)
 
+
 ## Weekly task
 
 Experiment with the toy NN:
@@ -25,6 +28,7 @@ Experiment with the toy NN:
 + Build a classification model using different datasets (try [mnist fashion](https://github.com/zalandoresearch/fashion-mnist))
 + Try to do some of the above or to replicate the examples provided with ToyNN using another [tool](../#tools) and compare the performances
 + [More ideas](https://github.com/shiffman/NOC-S18/wiki/Homework-6) :new:
+
 
 ## Going further
 
