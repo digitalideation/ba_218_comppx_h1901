@@ -18,13 +18,11 @@ This week we will look at some interesting usage of Convolutional Neural Network
 
 Create a small experiment using a CNN. Some ideas:
 
-<!-- + Export the shape classifier from Keras to Tensorflow.js or ML5.js
-+ Build a UI for the shape classifier
-+ Try to run the model in the browser
-+ Try to classify shape (or a similar algorithm) using CNN
++ Export the shape classifier (or another model) from Keras to Tensorflow.js / ML5.js
++ Try to run your model in the browser
++ Build a UI for the shape classifier (or another model)
 + Live image classifier (Wekinator, ML5js, TJ.js)
-+ Find similar image (ML5js, TJ.js) -->
-
++ Find similar image (ML5js, TJ.js)
 
 ## Going further
 
