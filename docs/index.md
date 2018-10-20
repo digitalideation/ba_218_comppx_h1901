@@ -149,6 +149,7 @@ Week | Slides                         | Content
 02   | [Slides](./slides/week02.html) | [Content](./content/week02.html)
 03   | [Slides](./slides/week03.html) | [Content](./content/week03.html)
 04   | [Slides](./slides/week04.html) | [Content](./content/week04.html)
+05   | [Slides](./slides/week05.html) | [Content](./content/week05.html)
 
 
 [ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
