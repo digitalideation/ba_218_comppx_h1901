@@ -6,12 +6,12 @@ title: "Week 05"
 
 ## Intro
 
-This week we will look at some interesting usage of Convolutional Neural Networks (ConvNets or CNN) and will start learning about Reccurrent Neural Networks (RNN) and their different forms.
+This week we will look at some interesting usage of Convolutional Neural Networks (ConvNets or CNN) and will start learning about Reccurrent Neural Networks (RNN) in their different forms.
 
 
 ## Resources
 
-+ []()
++ [RNN - Intro from ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
 
 
 ## Weekly task
