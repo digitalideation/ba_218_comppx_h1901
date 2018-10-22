@@ -56,6 +56,8 @@ By __next week__ (week 05) you should:
 + [CNN - Visualizing what ConvNets learn](https://cs231n.github.io/understanding-cnn/)
 + [CNN - Understanding convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 + [CNN - Visualisation](http://scs.ryerson.ca/~aharley/vis/conv/flat.html)
++ [CNN - Visualisation Distill.pub 01](https://distill.pub/2017/feature-visualization/)
++ [CNN - Visualisation Distill.pub 02](https://distill.pub/2018/building-blocks/)
 
 ### Tools 
 
