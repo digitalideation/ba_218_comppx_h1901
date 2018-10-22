@@ -41,6 +41,7 @@ Create a small experiment using a generative RNN. Some ideas:
 + [RNN - Music - Another great article, a bit more technical](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 + [RNN - Music - Magenta blog post](https://magenta.tensorflow.org/performance-rnn)
 + [RNN - Music - Magenta demos](https://magenta.tensorflow.org/demos)
++ [RNN - ML5 ](https://ml5js.org/docs/training-lstm)
 + [RNN - ML5 ](https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js)
 + [RNN - Text - adventures in narrated reality (part01)](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3)
 + [RNN - Text - adventures in narrated reality (part02)](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-part-ii-dc585af054cb)
