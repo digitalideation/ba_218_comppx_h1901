@@ -1,0 +1,36 @@
+------
+Deep Dream
+------
+Explanation (from???) + example from DLwPython + DD repo example??
+
+------
+Style Transfer
+------
+Explanation (from???) + example from DLwPython + OSS repo example??
+
+------
+VAE
+------
+Explanation (from???) + example from DLwPython (do it with “Large-scale Celeb Faces Attributes”) + OSS repo example??
+
+------
+GAN
+------
+Explanation (from???) + example from DLwPython (do it with another dataset) + OSS repo example??
+
+------
+STATUS QUO
+------
+We haven't discussed some topics such as Reinforcement Learning so if you're interested in those you will have to make your own research
+
+------
+PROJECTS
+------
+Do you want to learn the nuts and bolts of DL? Do you want to understand the general themes and try different implementation?
+
+Interesting themes and area to focus on:
+  - Models: Design and tune for performance. Might open a lot of door for your professional life.
+  - Interface: very little research and resources on the subject!
+  - Concrete usage: A lot of playful usage but little relevant example to solve everyday problems
+
+How is your timeline? You will need more than 2.5 h / week if you want to explore topics in details

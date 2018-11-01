@@ -122,21 +122,32 @@ A collection of real-time interactive applications and associated scripts for wo
 
 + Machine Learning for computer vision (ConvNets)
 
-### Week 05
+### Week 05 
 
++ Machine Learning for computer vision (ConvNets)
 + Review Convnets
-+ Generative models: LSTM, RNN
 
 ### Week 06
 
-+ Review RNN
-+ Generative models: GANs
++ Generative models: LSTM, RNN
++ Making music with RNN
 
 ### Week 07
 
-+ Datasets
-+ Exporting models
-+ Projects
++ Generative models:  
+  + Deep Dream
+  + Style Transfer
+  + VAE
+  + GAN
++ Status Quo
++ Projects dicussion
+
+### Week 08
+
++ Creating datasets
++ Making your models 'available'
+  + Exporting models
+  + API
 
 ...
 
@@ -148,8 +159,10 @@ Week | Slides                         | Content
 01   | [Slides](./slides/week01.html) | [Content](./content/week01.html)
 02   | [Slides](./slides/week02.html) | [Content](./content/week02.html)
 03   | [Slides](./slides/week03.html) | [Content](./content/week03.html)
-04   | [Slides](./slides/week04.html) | [Content](./content/week04.html)
-05   | [Slides](./slides/week05.html) | [Content](./content/week05.html)
+04   | -- | --
+05   | [Slides](./slides/week04.html) | [Content](./content/week04.html)
+06   | [Slides](./slides/week05.html) | [Content](./content/week05.html)
+07   | [Slides](./slides/week06.html) | [Content](./content/week06.html)
 
 
 [ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
