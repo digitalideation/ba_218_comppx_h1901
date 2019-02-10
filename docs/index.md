@@ -3,6 +3,33 @@ layout: default
 title: "Intro" 
 ---
 
+## Results  :trophy:
+
+[Laura](https://github.com/lauragyr), [Mike](https://github.com/micromic5), [Jony](https://github.com/Ooky):
+* Repo: https://github.com/micromic5/FaceEmotionGuitarHero 
+* Demo: https://www.massol.me/upload/comppx/laura-mike-jony-face-emotion-guitar-hero/ 
+* Presentation: https://www.dropbox.com/s/kkj8jpk532cs01q/Laura_Mike_Jony_Comppx.pdf?dl=0 
+
+[Simon](https://github.com/TheCell), David:
+* Repo: https://github.com/TheCell/generativeMachinelearning 
+* Demo: https://massol.me/upload/comppx/david-simon-generativeml/ 
+
+[Yannick](https://github.com/yannickbaettig), [Dan](https://www.scotchline.ch/):
+* Repo: https://github.com/yannickbaettig/comppx 
+* Demo: https://yannickbaettig.github.io/comppx 
+* Presentation: https://www.dropbox.com/s/z1w6wjo4vvt4r4i/Yannick_Dan_Comppx.pdf?dl=0 
+
+[Marlon](https://github.com/voidCAPITALism): 
+* Zip: https://www.dropbox.com/s/qvc2w9l77cop7l5/Marlon_Abgabe.zip?dl=0 
+
+Regula, [Valentin](https://github.com/V4L3):
+* Repo: https://github.com/V4L3/wannabeart 
+* Demo: https://v4l3.github.io/wannabeart/  (only works on Chrome)
+
+[Aytac](https://github.com/MrTouch), [Orell](https://github.com/Taereth):
+* Demo: http://cast.it-touch.ch/rapbotmania  
+
+
 ## Intro
 
 In this module we will explore different applications of ML/AI/DL with a particular focus on design and art. We will first learn how neural networks work with simple code examples, then we will experiment with different techniques of Deep Learning: 
