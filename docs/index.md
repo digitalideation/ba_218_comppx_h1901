@@ -3,31 +3,11 @@ layout: default
 title: "Intro" 
 ---
 
-## Results  :trophy:
 
-[Laura](https://github.com/lauragyr), [Mike](https://github.com/micromic5), [Jony](https://github.com/Ooky):
-* Repo: [https://github.com/micromic5/FaceEmotionGuitarHero](https://github.com/micromic5/FaceEmotionGuitarHero) 
-* Demo: [https://www.massol.me/upload/comppx/laura-mike-jony-face-emotion-guitar-hero/](https://www.massol.me/upload/comppx/laura-mike-jony-face-emotion-guitar-hero/) 
-* Presentation: [https://www.dropbox.com/s/kkj8jpk532cs01q/Laura_Mike_Jony_Comppx.pdf?dl=0](https://www.dropbox.com/s/kkj8jpk532cs01q/Laura_Mike_Jony_Comppx.pdf?dl=0) 
+# Computer Perception Extended - Winter 2019
 
-[Simon](https://github.com/TheCell), David:
-* Repo: [https://github.com/TheCell/generativeMachinelearning](https://github.com/TheCell/generativeMachinelearning)
-* Demo: [https://massol.me/upload/comppx/david-simon-generativeml](https://massol.me/upload/comppx/david-simon-generativeml)
-
-[Yannick](https://github.com/yannickbaettig), [Dan](https://www.scotchline.ch/):
-* Repo: [https://github.com/yannickbaettig/comppx](https://github.com/yannickbaettig/comppx) 
-* Demo: [https://yannickbaettig.github.io/comppx](https://yannickbaettig.github.io/comppx)
-* Presentation: [https://www.dropbox.com/s/z1w6wjo4vvt4r4i/Yannick_Dan_Comppx.pdf?dl=1](https://www.dropbox.com/s/z1w6wjo4vvt4r4i/Yannick_Dan_Comppx.pdf?dl=1)
-
-[Marlon](https://github.com/voidCAPITALism): 
-* Zip: [https://www.dropbox.com/s/qvc2w9l77cop7l5/Marlon_Abgabe.zip?dl=1](https://www.dropbox.com/s/qvc2w9l77cop7l5/Marlon_Abgabe.zip?dl=1)
-
-Regula, [Valentin](https://github.com/V4L3):
-* Repo: [https://github.com/V4L3/wannabeart](https://github.com/V4L3/wannabeart) 
-* Demo: [https://v4l3.github.io/wannabeart/](https://v4l3.github.io/wannabeart/)  (only works on Chrome)
-
-[Aytac](https://github.com/MrTouch), [Orell](https://github.com/Taereth):
-* Demo: [http://cast.it-touch.ch/rapbotmania](http://cast.it-touch.ch/rapbotmania)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/digideation)
 
 
 ## Intro
@@ -40,138 +20,35 @@ In this module we will explore different applications of ML/AI/DL with a particu
 
 Once we get a good grasp of the different techniques, we will experiment further by building our own ‘AI’ project. :space_invader:
 
-### Before starting
-
-+ [Learn Python the hard way][ref-learn-python-the-hardway]: to (re)learn your basic in Python
-+ [Google's Python Class][ref-google-python]: concise and clear
-+ [CodeAcademy Python][ref-ca-python]: Code Academy Python class
-+ [W3School js][ref-w3s-js]: JS simple tutorials
-+ [CodeAcademy JS][ref-ca-js]: Code Academy JS class
-+ [Eloquent JS][ref-el-js]: Eloquent JS
-
-### Tools
-
-#### 1. [Wekinator](http://www.wekinator.org/)
-
-Wekinator is a **software** allowing anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision and so on. Wekinator is using OSC protocol and can be used with pretty much any type of programing language. We will use it with [Processing](https://processing.org/).
-
-* [Example](http://www.wekinator.org/examples/)
-* [Quick Start Pack](http://www.wekinator.org/examples/#Quick_Start_Pack)
-* [Course](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
-
-#### 2. [ML5.js](https://ml5js.org)
-
-ML5.js is a simple **JavaScript** ML library for the web based on tensorflow.js. 
-
-* [Getting started](https://ml5js.org/docs/getting-started)
-* [Experiments](https://ml5js.org/en/experiments)
-* [Git source](https://github.com/ml5js)
-
-#### 3. [Synaptic.js](http://caza.la/synaptic) :new:
-
-The **JavaScript** architecture-free neural network library for node.js and the browser
-
-* [Documentation](https://github.com/cazala/synaptic/wiki)
-* [Github](https://github.com/cazala/synaptic)
-* [Another good tutorial](https://scrimba.com/casts/cast-1980)
-
-#### 4. [Brain.js](https://github.com/BrainJS/brain.js) 
-
-Neural networks in **JavaScript**, simple and playful.
-
-* [Great tutorial 01](https://scrimba.com/c/c36zkcb)
-* [Tutorial 02](https://www.youtube.com/watch?v=9Hz3P1VgLz4)
-* [Tutorial 03](https://www.youtube.com/watch?v=lvzekeBQsSo)
-
-#### 5. [Tensorflow.js](https://js.tensorflow.org/)
-
-A **JavaScript** library with a more advanced set of options, also for the web.
-
-* [Getting Started](https://js.tensorflow.org/#getting-started)
-* [Tutorials](https://js.tensorflow.org/tutorials/)
-* [Keynote](https://www.youtube.com/watch?v=YB-kfeNIPCE)
-* [Examples](https://github.com/tensorflow/tfjs-examples)
-* [Video Tutorials](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md#video-tutorials)
-
-#### 6. [Magenta.js](https://github.com/tensorflow/magenta-js/)
-
-Magenta.js is a collection of **TypeScript** libraries for doing inference with pre-trained Magenta models. All libraries are published as npm packages.
-
-* [Demos](https://magenta.tensorflow.org/demos)
-* [Blog](https://magenta.tensorflow.org)
-
-#### 7. [Keras](https://keras.io)
-
-Keras is a high-level neural networks API, written in **Python** and capable of running on top of **TensorFlow, CNTK, or Theano**. It was developed with a focus on enabling fast experimentation
-* [Getting Started](https://keras.io/#getting-started-30-seconds-to-keras)
-* [Tutorials](https://blog.keras.io/index.html)
-
-#### 8. [ML4A OFX](https://github.com/ml4a/ml4a-ofx) 
-
-A collection of real-time interactive applications and associated scripts for working with machine learning. ML4A-OFX is running on **[OpenFrameworks](http://www.openframeworks.cc/)**. 
-
-* [Guides](https://ml4a.github.io/guides/)
-* [Git](https://github.com/ml4a)
-
-#### 9. [OFX MSATensorflow](https://github.com/memo/ofxMSATensorFlow) 
-
-**[OpenFrameworks](http://www.openframeworks.cc/)** addon for Google's graph based machine intelligence / deep learning library TensorFlow.
-
 
 ## Schedule
 
-### Week 01
-
+#### Week 01
 + Intro: General 
-  + About the course (communication, resources, deliverables, etc…)
-+ ML / AI / DL
-  + History & Example
-+ Intro: Tools
-  + Keras, TFJS, ML5JS, etc...
++ ML / AI / DL: History & Example
++ Tools: Keras, TFJS, ML5JS, etc...
 
-### Week 02
-
+#### Week 02
 + Students intro
 + Inner working of a Neural Network
-+ NN : Toy Neural Network
-  + Build together a simple neural net
-  + Create simple classification tasks
++ Training a NN: Intro to tools (Keras, ML5js, Paperspace)
 
-### Week 03
-
+#### Week 03
 + Machine Learning Project Checklist
-+ Training a NN: Intro to tools
-  + Keras
-  + ML5js
-  + Paperspace (tbc)
++ Creating a dataset
 
-### Week 04 (self study)
-
+#### Week 04 
 + Machine Learning for computer vision (ConvNets)
 
-### Week 05 
-
-+ Machine Learning for computer vision (ConvNets)
-+ Review Convnets
-
-### Week 06
-
+#### Week 05
 + Generative models: LSTM, RNN
 + Making music with RNN
 
-### Week 07
-
-+ Generative models:  
-  + Deep Dream
-  + Style Transfer
-  + VAE
-  + GAN
-+ Status Quo
+#### Week 06
++ Generative models: Deep Dream, Style Transfer, VAE, GAN.
 + Projects dicussion
 
-### Week 08
-
-+ Creating datasets
+#### Week 07
 + Making your models 'available'
   + Exporting models
   + API
@@ -179,17 +56,105 @@ A collection of real-time interactive applications and associated scripts for wo
 ...
 
 
-## Content
+## Tools
 
-Week | Slides                         | Content
----- | ------------------------------ | -------
-01   | [Slides](./slides/week01.html) | [Content](./content/week01.html)
-02   | [Slides](./slides/week02.html) | [Content](./content/week02.html)
-03   | [Slides](./slides/week03.html) | [Content](./content/week03.html)
-04   | -- | --
-05   | [Slides](./slides/week04.html) | [Content](./content/week04.html)
-06   | [Slides](./slides/week05.html) | [Content](./content/week05.html)
-07   | [Slides](./slides/week06.html) | [Content](./content/week06.html)
+#### System requirement
+Modern machine with decent hardware and sufficient space on the hard drive (20+ Gb)
+
+#### Runway
+We are using [__Runway__](https://runwayapp.ai), a tool which makes deploying ML models easy, as middleware to build the interactive experiments. All participants to the workshop should have received an invitations with some GPU credits :tada:. For those who have not installed it prior to the workshop, we will go through the [installation process](https://docs.runwayml.com/#/getting-started/installation) together.
+
+#### Docker
+[__Docker__](https://www.docker.com/) is needed in order to deploy some of the models locally. This will give us some flexibility when running experiments. It will also allow us to _chain_ models (at the moment a user can only run one model instance using the provided cloud GPU in Runway). A guide to getting started is [available](https://docs.runwayml.com/#/getting-started/installation?id=download-docker). For linux users, those [post install steps](https://docs.docker.com/install/linux/linux-postinstall/) could be useful as well.
+
+> Docker for Windows requires Microsoft Hyper-V, which is supported only in the Pro, Enterprise or Education editions of Windows. If you don't have a Pro, Enterprise or Education Windows edition you will not be able to install Docker and you will be able to only run some models using cloud GPU.
+
+#### Code editor
+If you don’t have a code editor, please install one. Some suggestions (in no particular order)
+- [Sublime Text](https://www.sublimetext.com)
+- [Visual Studio](https://code.visualstudio.com)
+- [Atom](https://atom.io) 
+
+#### Web server
+We need a simple web server to run the experiments locally. Some suggestions 
+- If you have node.js/npm installed you can use _live-server_: `npm install -g live-server`
+- [Other recommended options](https://github.com/processing/p5.js/wiki/Local-server)
+
+#### Tensorflow.js
+A **JavaScript** library with a more advanced set of options, also for the web.
+- [Getting Started](https://js.tensorflow.org/#getting-started)
+- [Tutorials](https://js.tensorflow.org/tutorials/)
+- [Keynote](https://www.youtube.com/watch?v=YB-kfeNIPCE)
+- [Examples](https://github.com/tensorflow/tfjs-examples)
+- [Video Tutorials](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md#video-tutorials)
+
+#### Keras
+Keras is a high-level neural networks API, written in **Python** and capable of running on top of **TensorFlow, CNTK, or Theano**. It was developed with a focus on enabling fast experimentation
+- [Getting Started](https://keras.io/#getting-started-30-seconds-to-keras)
+- [Tutorials](https://blog.keras.io/index.html)
+
+#### ML5.js
+ML5.js is a simple **JavaScript** ML library for the web based on tensorflow.js. 
+- [Getting started](https://ml5js.org/docs/getting-started)
+- [Experiments](https://ml5js.org/en/experiments)
+- [Git source](https://github.com/ml5js)
+
+#### P5.js
+[__p5.js__ ](https://p5js.org/) is a high level creative programming framework with an [intuitive API](https://p5js.org/reference/). If some of you have used Processing before you should be confortable using p5.js. To get familiar with p5 you can go through this list of tutorials / guides:
+- [P5 Learn](https://p5js.org/learn/)
+- [P5 Wiki](https://github.com/processing/p5.js/wiki/)
+- [Creative Coding](https://creative-coding.decontextualize.com/)
+- [Shiffman's Foundation of programming in js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [P5js reference](https://p5js.org/reference/)
+
+#### Magenta.js
+Magenta.js is a collection of **TypeScript** libraries for doing inference with pre-trained Magenta models. All libraries are published as npm packages.
+- [Demos](https://magenta.tensorflow.org/demos)
+- [Blog](https://magenta.tensorflow.org)
+
+
+## Samples
+
+TBA
+
+
+## References / Reading list
+
+* History:
+  + [History - Longer history of Machine Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
+  + [History - History of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
+* Intro:
+  + [Neural Networks - Intro videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  + [Neural Networks - Intro text](https://ml4a.github.io/ml4a/neural_networks/)
+  + [Machine Learning - Getting started](https://www.youtube.com/watch?v=I74ymkoNTnw)
+  + [Machine Learning is fun (series)](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+* Books:
+  + [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+  + [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
+  + [Intelligence Artificielles, Miroirs de nos vies (BD) ](http://www.sceneario.com/bande-dessinee/intelligences-artificielles/miroirs-de-nos-vies/29059.html)
+* Programming languages:
+  + [Learn Python the hard way][ref-learn-python-the-hardway]: to (re)learn your basic in Python
+  + [Google's Python Class][ref-google-python]: concise and clear
+  + [CodeAcademy Python][ref-ca-python]: Code Academy Python class
+  + [W3School js][ref-w3s-js]: JS simple tutorials
+  + [CodeAcademy JS][ref-ca-js]: Code Academy JS class
+  + [Eloquent JS][ref-el-js]: Eloquent JS
+
+
+## Repository structure
+
+```
+├── docs
+│   ├── _layouts
+│   ├── assets            (img, etc.. for content)
+│   │   ├── css
+│   │   └── images
+│   └── slides            (slides of the presentations)
+│       ├── demos
+│       └── static        (img, etc.. for slides)
+├── samples               (code samples) 
+└── utilities             (scripts and notes)
+```
 
 
 [ref-learn-python-the-hardway]: https://www.learnpythonthehardway.org
