@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
 title: COMPPX19
+show_downloads: "true"
 plugins:
   - jemoji
-
-# description: Winter 2018
-# show_downloads: "true"

@@ -1,4 +1,4 @@
-![di logo](https://raw.githubusercontent.com/digitalideation/ba_218_comppx_h1801/master/docs/assets/images/di-logo-small.jpg "di logo")
+![di logo](https://raw.githubusercontent.com/digitalideation/ba_218_comppx_h1901/master/docs/assets/images/di-logo-small.jpg "di logo")
 
 
 # Computer Perception Extended - Winter 2019
@@ -10,7 +10,7 @@ Main repo for the classes BA_218_COMPPX.H1901
 
 All the info regarding the class as well as direct links to all materials (slides, notebooks, examples, etc... ) are accessible via the github pages for this repository: 
 
-**[https://digitalideation.github.io/ba_218_comppx_h1801/](https://digitalideation.github.io/ba_218_comppx_h1801/)**
+**[https://digitalideation.github.io/ba_218_comppx_h1901/](https://digitalideation.github.io/ba_218_comppx_h1901/)**
 
 
 ## Intro
