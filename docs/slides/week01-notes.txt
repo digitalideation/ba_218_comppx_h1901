@@ -18,20 +18,6 @@ symbolic AI: suitable to solve well-defined, logical problems, such as playing c
 
 
 ------
-ANAL. ENGINE
-------
-18th Century, Lady Ada Lovelace was a friend and collaborator of Charles Babbage, the inventor of the "Analytical Engine” (1830s and 1840s) the first known design of a general-purpose computer — a mechanical computer.
-
-Visionary but not meant as a general-purpose computer since the concept of general-purpose computation was yet to be invented. It was meant as a way to use mechanical operations to automate certain computations from the field of mathematical analysis — hence the name "analytical engine". 
-
-In 1843, Ada Lovelace remarked on the invention:
-
-This remark was quoted by AI pioneer Alan Turing as "Lady Lovelace’s objection" in his landmark 1950 paper "Computing Machinery and Intelligence", which introduced the "Turing test" as well as key concepts that would come to shape AI. 
-
-Turing was quoting Ada Lovelace while pondering whether general-purpose computers could be capable of learning and originality, and he came to the conclusion that they could.
-
-
-------
 CLASSIC vs ML
 ------
 Machine learning arises from this very question: could a computer go beyond "what we know how to order it to perform”
@@ -47,6 +33,20 @@ With machine learning, humans would input data as well as the answers expected f
 A machine learning system is "trained" rather than explicitly programmed. 
 
 It is presented with many "examples" relevant to a task, and it finds statistical structure in these examples which eventually allows the system to come up with rules for automating the task.
+
+
+------
+ANAL. ENGINE
+------
+18th Century, Lady Ada Lovelace was a friend and collaborator of Charles Babbage, the inventor of the "Analytical Engine” (1830s and 1840s) the first known design of a general-purpose computer — a mechanical computer.
+
+Visionary but not meant as a general-purpose computer since the concept of general-purpose computation was yet to be invented. It was meant as a way to use mechanical operations to automate certain computations from the field of mathematical analysis — hence the name "analytical engine". 
+
+In 1843, Ada Lovelace remarked on the invention:
+
+This remark was quoted by AI pioneer Alan Turing as "Lady Lovelace’s objection" in his landmark 1950 paper "Computing Machinery and Intelligence", which introduced the "Turing test" as well as key concepts that would come to shape AI. 
+
+Turing was quoting Ada Lovelace while pondering whether general-purpose computers could be capable of learning and originality, and he came to the conclusion that they could.
 
 
 ------
