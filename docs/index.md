@@ -23,21 +23,21 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ## Schedule
 
-#### Week 01
+#### Week 01: [Content](./content/week01.html) - [Slides](./slides/week01.html)
 + Intro: General 
 + ML / AI / DL: History & Example
 + Tools: Keras, TFJS, ML5JS, etc...
 
-#### Week 02
+#### Week 02: [Content](./content/week02.html) - [Slides](./slides/week02.html)
 + Students intro
 + Inner working of a Neural Network
 + Training a NN: Intro to tools (Keras, ML5js, Paperspace)
 
-#### Week 03
+#### Week 03: 
 + Machine Learning Project Checklist
 + Creating a dataset
 
-#### Week 04 
+#### Week 04: 
 + Machine Learning for computer vision (ConvNets)
 
 #### Week 05
@@ -68,6 +68,9 @@ We are using [__Runway__](https://runwayapp.ai), a tool which makes deploying ML
 [__Docker__](https://www.docker.com/) is needed in order to deploy some of the models locally. This will give us some flexibility when running experiments. It will also allow us to _chain_ models (at the moment a user can only run one model instance using the provided cloud GPU in Runway). A guide to getting started is [available](https://docs.runwayml.com/#/getting-started/installation?id=download-docker). For linux users, those [post install steps](https://docs.docker.com/install/linux/linux-postinstall/) could be useful as well.
 
 > Docker for Windows requires Microsoft Hyper-V, which is supported only in the Pro, Enterprise or Education editions of Windows. If you don't have a Pro, Enterprise or Education Windows edition you will not be able to install Docker and you will be able to only run some models using cloud GPU.
+
+#### Conda
+[__Conda__](https://conda.io) is an open source package management system and environment management system that runs on Windows, macOS and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer. It was created for Python programs, but it can package and distribute software for any language.
 
 #### Code editor
 If you don’t have a code editor, please install one. Some suggestions (in no particular order)

@@ -11,7 +11,7 @@ This week we are going to look into the inner working of a Neural Network. As a 
 
 ## Resources
 
-+ [NN - Intro videos (again)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
++ [NN - Intro videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 + [NN - ToyNN Source](https://github.com/CodingTrain/Toy-Neural-Network-JS/)
 + [NN - ToyNN Forked Source with shape classifier](https://github.com/gu-ma/Toy-Neural-Network-JS/)
 + [NN - ToyNN Example Color Predictor](https://editor.p5js.org/natureofcode/sketches/SkYS8WwjG)
@@ -32,6 +32,8 @@ Experiment with the toy NN:
 
 ## Going further
 
++ [NN - Book - Deep learning with Python](https://www.manning.com/books/deep-learning-with-python)
++ [NN - Book - Grokking deep learning](https://www.manning.com/books/grokking-deep-learning)
 + [Datasets - Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
 + [Datasets - Misc datasets](https://www.kdnuggets.com/datasets/index.html)
 + [Datasets - Kaggle](https://www.kaggle.com/datasets)
