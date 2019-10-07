@@ -33,7 +33,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 + Inner working of a Neural Network
 + Training a NN: Intro to tools (Keras, ML5js, Paperspace)
 
-#### Week 03: 
+#### Week 03: [Content](./content/week03.html) - [Slides](./slides/week03.html)
 + Machine Learning Project Checklist
 + Creating a dataset
 
