@@ -37,7 +37,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 + Machine Learning Project Checklist
 + Creating a dataset
 
-#### Week 04: 
+#### Week 04: [Content](./content/week04.html) - [Slides](./slides/week04.html)
 + Machine Learning for computer vision (ConvNets)
 
 #### Week 05
