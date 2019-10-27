@@ -15,30 +15,26 @@ function setup() {
 // Draw loop
 function draw() {
     background(0)
-    // liveStream = utils.getLiveStream('http://10.10.4.98:8081')
-    // image(liveStream, 0, 0)    
     image(capture, 0, 0)
     if (cocoSSDResults)
-        drawClasses(cocoSSDResults)
+        drawClasses(cocoSSDResults, capture)
 };
 
 // Draw the text
-function drawClasses(results) {
-    for (result of results) {
-        if (result.bbox) {
-            // bbox holds the coordinate of the bounding box
-            const x = result.bbox[0]
-            const y = result.bbox[1]
-            const w = result.bbox[2]
-            const h = result.bbox[3]
-            // class holds the label of the class
-            const label = result.class
-            push() // Start a new drawing state
-                translate(x, y)
-                drawBox(w, h)
-                drawText(label)
-            pop() // Restore original state
-        }
+function drawClasses(results, capture) {
+    for (var i = results.boxes.length - 1; i >= 0; i--) {
+        // boxes holds the coordinate of the bounding box
+        const x = results.boxes[i][0] * capture.width
+        const y = results.boxes[i][1] * capture.height
+        const w = results.boxes[i][2] * capture.width
+        const h = results.boxes[i][3] * capture.height
+        // class holds the label of the class
+        const label = results.labels[i]
+        push() // Start a new drawing state
+            translate(x, y)
+            drawBox(w, h)
+            drawText(label)
+        pop() // Restore original state
     }
 }
 
@@ -73,7 +69,4 @@ function keyReleased() {
 function sendImageToCoco() {
     const image = utils.captureAndEncodeCanvas(capture)
     models['cocoSSD'].input({ image })
-    // utils.captureAndEncodeLiveStream(liveStream).then(image => {
-    //     models['cocoSSD'].input({ image })
-    // })
 }

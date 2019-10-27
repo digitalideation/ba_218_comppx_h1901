@@ -18,12 +18,7 @@ function setup() {
 // Draw loop
 function draw() {
     background(0)
-    // liveStream = utils.getLiveStream('http://10.10.4.98:8081')
-    // image(liveStream, 0, 0)    
     image(capture, 0, 0)
-    // if (cocoSSDResults)
-    //     drawClasses(cocoSSDResults)
-
     if (faceRecResults && cocoSSDResults) {
         for (const cocoSSDResult of cocoSSDResults) {
             if (cocoSSDResult.class == 'person') {

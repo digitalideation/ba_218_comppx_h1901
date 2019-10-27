@@ -4,7 +4,6 @@
 // Variables
 let styleTransferImage
 let capture
-let liveStream
 
 function setup() {
     canvas = createCanvas(windowWidth, windowHeight)

@@ -19,10 +19,7 @@ function setup() {
 
 function draw() {
     background(0)
-    // image(capture, 0, 0)
-    liveStream = utils.getLiveStream('http://10.10.4.129:8081')
-    image(liveStream, 0, 0)
-
+    image(capture, 0, 0)
     if (im2txtCaption && poseNetPoses) {
         // drawPoses(poseNetPoses, ["leftWrist", "rightWrist"])
         if (poseNetPoses[0]) {
@@ -100,19 +97,13 @@ function keyReleased() {
 }
 
 // Send the current capture image to the model
-function sendImageToPoseNet() {
-    utils.captureAndEncodeLiveStream(liveStream).then(image => {
-        models['poseNet'].input({ image })
-    })    
-    // const image = utils.captureAndEncodeCanvas(capture)    
-    // models['poseNet'].input({ image })
+function sendImageToPoseNet() {  
+    const image = utils.captureAndEncodeCanvas(capture)    
+    models['poseNet'].input({ image })
 }
 
 // Send the current capture image to the model
 function sendImageToIm2txt() {
-    utils.captureAndEncodeLiveStream(liveStream).then(image => {
-        models['im2txt'].input({ image })
-    })        
-    // const image = utils.captureAndEncodeCanvas(capture)    
-    // models['im2txt'].input({ image })
+    const image = utils.captureAndEncodeCanvas(capture)    
+    models['im2txt'].input({ image })
 }

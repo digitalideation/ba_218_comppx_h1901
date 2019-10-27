@@ -17,7 +17,8 @@ models['attnGAN'].output((data) => {
 
 // This function is called when we receive a new message from im2txt model
 models['im2txt'].output((data) => {
-    im2txtCaption = data.results[0].caption
+    // console.log(data)
+    im2txtCaption = data.caption
     console.log(`[im2txt] ${im2txtCaption}`)
     sendTextToAttnGAN()
 })
