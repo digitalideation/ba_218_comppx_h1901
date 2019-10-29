@@ -41,18 +41,22 @@ Once we get a good grasp of the different techniques, we will experiment further
 + Machine Learning for computer vision (ConvNets)
 
 #### Week 05
-+ Generative models: LSTM, RNN
-+ Making music with RNN
++ Testing RunwayML
 
-#### Week 06
-+ Generative models: Deep Dream, Style Transfer, VAE, GAN.
+#### Week 06 [Content](./content/week06.html) - [Slides](./slides/week06.html)
 + Projects dicussion
++ Machine Learning for computer vision (ConvNets)
++ Generative models: LSTM, RNN
++ Machine Learning Project Checklist
 
 #### Week 07
-+ Making your models 'available'
++ Generative models: Deep Dream, Style Transfer, VAE, GAN.
++ Deploying your models
+  + Runway
   + Exporting models
   + API
 
+#### Week 08
 ...
 
 

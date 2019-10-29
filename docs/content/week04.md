@@ -20,7 +20,7 @@ This week we start looking into Convolutional Neural Networks (ConvNets or CNN).
 
 ### In Class
 
-Read the articles above in [resources](#resources), and complete the 4 notebooks for week 04 in `ba_218_comppx_h1801/samples/notebooks`:
+Read the articles above in [resources](#resources), and complete the 4 notebooks for week 04 in `ba_218_comppx_h1901/samples/notebooks`:
 
 ```
 ...

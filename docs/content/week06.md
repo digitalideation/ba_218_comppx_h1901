@@ -6,41 +6,45 @@ title: "Week 06"
 
 ## Intro
 
-This week we will continue exploring generative models by discussing techniques used in DeepDream, Style Transfer, VAE and GAN.
+This week we will look at some interesting usage of Convolutional Neural Networks (ConvNets or CNN) and will start learning about Reccurrent Neural Networks (RNN) in their different forms.
 
 
 ## Resources
 
-+ [GAN - Pix2Pix](https://phillipi.github.io/pix2pix/)
-+ [GAN - Style Transfer](https://blog.paperspace.com/art-with-neural-networks/)
-+ [GAN - Face Swap](https://blog.paperspace.com/style-transfer-part-2/)
-+ [Style Transfer - Neural Style](https://github.com/jcjohnson/neural-style)
-
++ [RNN - Intro from ML is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
++ [RNN - Char RNN tf](https://github.com/sherjilozair/char-rnn-tensorflow)
 
 ## Weekly task
 
-Run and discuss the notebooks in `ba_218_comppx_h1801/samples/notebooks`. We will do that part in class most likely.
+Run and discuss the notebooks in `ba_218_comppx_h1901/samples/notebooks`. We will do that part in class most likely.
 
 ```
-├── week06-01-deep-dream.ipynb
-├── week06-02-neural-style-transfer.ipynb
-├── week06-03-generating-images-with-vaes.ipynb
-└── week06-04-introduction-to-gans.ipynb
+├── week04-05-image-search.ipynb
+├── week04-06-image-tsne.ipynb
+├── week04-07-image-path.ipynb
+...
+├── week06-01-one-hot-encoding-of-words-or-characters.ipynb
+├── week06-02-using-word-embeddings.ipynb
+├── week06-03-understanding-recurrent-neural-networks.ipynb
+├── week06-04-advanced-usage-of-recurrent-neural-networks.ipynb
+└── week06-05-text-generation-with-lstm.ipynb
 ```
 
+Create a small experiment using a generative RNN. Some ideas:
+
++ Music player 
++ A platform game level
 
 ## Going further
 
-+ [CNN - Visualisation](https://github.com/tensorflow/lucid)
-+ [CNN - Visualisation](https://distill.pub/2017/feature-visualization/)
-+ [GAN - DCGAN](https://github.com/carpedm20/DCGAN-tensorflow)
-+ [GAN - Progressive Growing of GANs](https://github.com/tkarras/progressive_growing_of_gans)
-+ [GAN - Pix2Pix](https://phillipi.github.io/pix2pix/)
-+ [GAN - Pix2PixHD](https://github.com/NVIDIA/pix2pixHD)
-+ [GAN - CycleGAN & Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/)
-+ [GAN - Neural Doodle](https://github.com/alexjc/neural-doodle)
-+ [Datasets - Scraping](https://github.com/montoyamoraga/scrapers)
-+ [Datasets - Scraping Chrome Add On](https://www.webscraper.io)
-+ [Python - API](https://medium.com/python-pandemonium/build-simple-restful-api-with-python-and-flask-part-1-fae9ff66a706)
-+ [Python - API](https://realpython.com/flask-connexion-rest-api/)
-+ [MISC - Examples](https://research.google.com/seedbank/)
++ [RNN - Music - Great article, simply explained, on how to 'compose' music with an RNN](https://maraoz.com/2016/02/02/abc-rnn/)
++ [RNN - Music - Another great article, a bit more technical](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
++ [RNN - Music - Magenta blog post](https://magenta.tensorflow.org/performance-rnn)
++ [RNN - Music - Magenta demos](https://magenta.tensorflow.org/demos)
++ [RNN - ML5 ](https://ml5js.org/docs/training-lstm)
++ [RNN - ML5 ](https://blog.paperspace.com/training-an-lstm-and-using-the-model-in-ml5-js)
++ [RNN - Text - adventures in narrated reality (part01)](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3)
++ [RNN - Text - adventures in narrated reality (part02)](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-part-ii-dc585af054cb)
++ [RNN - Text - generating stories](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
++ [RNN - Text - Sentence space](https://www.robinsloan.com/voyages-in-sentence-space/)
++ [RNN - Text - Word embedding library - Spacy]()
