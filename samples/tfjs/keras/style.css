@@ -1,0 +1,13 @@
+.pred-container {
+    margin-bottom: 20px;
+}
+
+.pred-container>div {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+#file-container {
+    margin-bottom: 20px;
+}

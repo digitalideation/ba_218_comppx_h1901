@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Example Keras import</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <!-- partial:index.partial.html -->
+    <section>
+        <h2>Status</h2>
+        <div id="status"></div>
+    </section>
+    <section>
+        <h2>Model Output</h2>
+        <div id="file-container" style="display: none">
+            Upload an image: <input type="file" id="files" name="files[]" multiple />
+        </div>
+        <div id="predictions"></div>
+    </section>
+    <!-- partial -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/tensorflow/0.14.0/tf.min.js'></script>
+    <script src="./script.js"></script>
+</body>
+
+</html>
