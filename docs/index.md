@@ -47,17 +47,17 @@ Once we get a good grasp of the different techniques, we will experiment further
 + Projects dicussion
 + Machine Learning for computer vision (ConvNets)
 + Generative models: LSTM, RNN
-+ Machine Learning Project Checklist
 
 #### Week 07
-+ Generative models: Deep Dream, Style Transfer, VAE, GAN.
++ Machine Learning Project Checklist
++ Remote GPU
 + Deploying your models
-  + Runway
-  + Exporting models
-  + API
+  + Runway API
+  + Tensorflow.js
+  + Python API
 
 #### Week 08
-...
++ Generative models: Deep Dream, Style Transfer, VAE, GAN.
 
 
 ## Tools
