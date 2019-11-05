@@ -16,6 +16,8 @@ async function predict(imgElement) {
     const logits = tf.tidy(() => {
         // tf.fromPixels() returns a Tensor from an image element.
         const img = tf.fromPixels(imgElement).toFloat();
+        // Divide by 255
+        img = tf.div(img, tf.scalar(255));
         // Reshape to a single-element batch so we can pass it to predict.
         const batched = img.reshape([1, IMAGE_SIZE, IMAGE_SIZE, 3]);
         // Make a prediction.
