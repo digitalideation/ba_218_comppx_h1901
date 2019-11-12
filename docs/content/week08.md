@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: "Week 06" 
+title: "Week 08" 
 ---
 
 
@@ -22,10 +22,10 @@ This week we will continue exploring generative models by discussing techniques 
 Run and discuss the notebooks in `ba_218_comppx_h1901/samples/notebooks`. We will do that part in class most likely.
 
 ```
-├── week06-01-deep-dream.ipynb
-├── week06-02-neural-style-transfer.ipynb
-├── week06-03-generating-images-with-vaes.ipynb
-└── week06-04-introduction-to-gans.ipynb
+├── week08-01-deep-dream.ipynb
+├── week08-02-neural-style-transfer.ipynb
+├── week08-03-generating-images-with-vaes.ipynb
+└── week08-04-introduction-to-gans.ipynb
 ```
 
 
