@@ -56,7 +56,7 @@ Once we get a good grasp of the different techniques, we will experiment further
   + Tensorflow.js
   + Python API
 
-#### Week 08
+#### Week 08 [Content](./content/week08.html) - [Slides](./slides/week08.html)
 + Generative models: Deep Dream, Style Transfer, VAE, GAN.
 
 
